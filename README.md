@@ -1,3 +1,3 @@
-https://colab.research.google.com/drive/1vm_UbuvgpQf13hsYbkhW4A5UX4LxaTyg?usp=sharing
+http://go.kitchensak.com/7RL2phA0
 
 https://huggingface.co/calcuis/wan-1.3b-gguf
